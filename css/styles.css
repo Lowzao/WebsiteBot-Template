@@ -119,3 +119,21 @@ box-shadow:  25px 25px 51px #6400a3,
 }
 
 
+/* Footer */
+
+.foooter {
+    background-color: #1D1E28;
+    padding: 10px;
+
+}
+
+.footer-text {
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+}
+
+.footer-text a {
+    color: white;
+
+}
